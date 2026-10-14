@@ -64,11 +64,11 @@ Raw Telemetry ➔ Feature Engineering ➔ StandardScaler ➔ K-Means (K=5) ➔ P
 
 | Persona Tag | Ad Count | Avg Spend | Avg Purchases | Conv. Rate | Avg CPP | Strategic Agency Directive |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Core Anchors** | 316 | $53.18 | 1.60 | 10.33% | $37.87 | **Maintain / Scale Incrementally** — Steady revenue backbone with stable acquisition costs. |
-| **Budget Drainers** | 313 | $35.04 | 0.00 | 0.00% | $674.99* | **Pause Ad Immediately** — Pure budget leaks. Eliminates non-converting spend. |
-| **Hidden Gems** | 71 | $1.82 | 1.07 | 87.04% | $1.70 | **Scale Budget Aggressively** — Exceptional conversion efficiency on small test budgets. |
-| **Underperformers** | 132 | $12.72 | 0.23 | 4.08% | $506.89 | **Redesign Copy / Refresh Audience** — Weak conversion rates and elevated CAC on test budgets. |
-| **Volume Drivers** | 104 | $280.04 | 3.75 | 2.13% | $181.40 | **Cap Spend / Optimize Funnel** — High total revenue drivers experiencing audience saturation. |
+| **Core Anchors** | 316 | $53.18 | 1.60 | 10.33% | $37.87 | **Maintain / Scale Incrementally** - Steady revenue backbone with stable acquisition costs. |
+| **Budget Drainers** | 313 | $35.04 | 0.00 | 0.00% | $674.99* | **Pause Ad Immediately** - Pure budget leaks. Eliminates non-converting spend. |
+| **Hidden Gems** | 71 | $1.82 | 1.07 | 87.04% | $1.70 | **Scale Budget Aggressively** - Exceptional conversion efficiency on small test budgets. |
+| **Underperformers** | 132 | $12.72 | 0.23 | 4.08% | $506.89 | **Redesign Copy / Refresh Audience** - Weak conversion rates and elevated CAC on test budgets. |
+| **Volume Drivers** | 104 | $280.04 | 3.75 | 2.13% | $181.40 | **Cap Spend / Optimize Funnel** - High total revenue drivers experiencing audience saturation. |
 
 *\*Note: Budget Drainers CPP reflects the standardized zero-conversion penalty shift calculation.*
 
